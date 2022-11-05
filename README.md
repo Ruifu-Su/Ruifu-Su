@@ -1,1 +1,1 @@
-[About Ruifu Su](https://www.suruifu.com/about)
+<a href="https://www.suruifu.com/about" target="_blank">About Ruifu Su</a>
